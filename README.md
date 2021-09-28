@@ -1,2 +1,2 @@
-# Gest-o-Calibra-o
+# Gestao-Calibracao
 Sistema de gestão e controle de equipamentos de calibração empresárial.
